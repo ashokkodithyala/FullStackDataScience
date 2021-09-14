@@ -1,0 +1,56 @@
+INFO:__main__:Current registry uri: sqlite:///mlflow_arem.db
+INFO:__main__:Current tracking uri: sqlite:///mlflow_arem.db
+INFO:__main__:Total files in bending1 folder found:7
+INFO:__main__:Total files in bending2 folder found:6
+INFO:__main__:Total files in cycling folder found:15
+INFO:__main__:Total files in lying folder found:15
+INFO:__main__:Total files in sitting folder found:15
+INFO:__main__:Total files in standing folder found:15
+INFO:__main__:Total files in walking folder found:15
+INFO:__main__:# Columns: time dropped.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:__main__:Model Training completed.
+Model saved in run 5f62308e6e6f41bd8f3604b66b5edb52: 
+INFO:__main__:Current registry uri: sqlite:///mlflow_arem.db
+INFO:__main__:Current tracking uri: sqlite:///mlflow_arem.db
+INFO:__main__:Total files in bending1 folder found:7
+INFO:__main__:Total files in bending2 folder found:6
+INFO:__main__:Total files in cycling folder found:15
+INFO:__main__:Total files in lying folder found:15
+INFO:__main__:Total files in sitting folder found:15
+INFO:__main__:Total files in standing folder found:15
+INFO:__main__:Total files in walking folder found:15
+INFO:__main__:# Columns: time dropped.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:__main__:Model Training completed.
+Model saved in run 633a8719b3da487a9dd1c0f8e8f3cbb4: 
+INFO:__main__:Current registry uri: sqlite:///mlflow_arem.db
+INFO:__main__:Current tracking uri: sqlite:///mlflow_arem.db
+INFO:__main__:Total files in bending1 folder found:7
+INFO:__main__:Total files in bending2 folder found:6
+INFO:__main__:Total files in cycling folder found:15
+INFO:__main__:Total files in lying folder found:15
+INFO:__main__:Total files in sitting folder found:15
+INFO:__main__:Total files in standing folder found:15
+INFO:__main__:Total files in walking folder found:15
+INFO:__main__:# Columns: time dropped.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:__main__:Model Training completed.
+Model saved in run e20651b291524b6380911aa68384c30d: 
+INFO:__main__:Current registry uri: sqlite:///mlflow_arem.db
+INFO:__main__:Current tracking uri: sqlite:///mlflow_arem.db
+INFO:__main__:Total files in bending1 folder found:7
+INFO:__main__:Total files in bending2 folder found:6
+INFO:__main__:Total files in cycling folder found:15
+INFO:__main__:Total files in lying folder found:15
+INFO:__main__:Total files in sitting folder found:15
+INFO:__main__:Total files in standing folder found:15
+INFO:__main__:Total files in walking folder found:15
+INFO:__main__:# Columns: time dropped.
+INFO:alembic.runtime.migration:Context impl SQLiteImpl.
+INFO:alembic.runtime.migration:Will assume non-transactional DDL.
+INFO:__main__:Model Training completed.
+Model saved in run 3e0fc30df4bd420f88622c62eb3acff8: 
